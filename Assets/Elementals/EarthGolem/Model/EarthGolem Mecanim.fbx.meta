@@ -1,0 +1,2139 @@
+fileFormatVersion: 2
+guid: 0c5cb25093b4f374684b5ec7adcf4170
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: 0_Mesh
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: FG_ArmLower_L
+  - first:
+      1: 100006
+    second: FG_ArmLower_R
+  - first:
+      1: 100008
+    second: FG_ArmUpper_L
+  - first:
+      1: 100010
+    second: FG_ArmUpper_R
+  - first:
+      1: 100012
+    second: FG_Floating_L
+  - first:
+      1: 100014
+    second: FG_Floating_R
+  - first:
+      1: 100016
+    second: FG_Foot_L
+  - first:
+      1: 100018
+    second: FG_Foot_R
+  - first:
+      1: 100020
+    second: FG_Hand_L
+  - first:
+      1: 100022
+    second: FG_Hand_R
+  - first:
+      1: 100024
+    second: FG_Head
+  - first:
+      1: 100026
+    second: FG_IndexLower_L
+  - first:
+      1: 100028
+    second: FG_IndexLower_R
+  - first:
+      1: 100030
+    second: FG_IndexUpper_L
+  - first:
+      1: 100032
+    second: FG_IndexUpper_R
+  - first:
+      1: 100034
+    second: FG_Jaw
+  - first:
+      1: 100036
+    second: FG_LegLower_L
+  - first:
+      1: 100038
+    second: FG_LegLower_R
+  - first:
+      1: 100040
+    second: FG_LegUpper_L
+  - first:
+      1: 100042
+    second: FG_LegUpper_R
+  - first:
+      1: 100044
+    second: FG_Origin
+  - first:
+      1: 100046
+    second: FG_Pelvis
+  - first:
+      1: 100048
+    second: FG_RingLower_L
+  - first:
+      1: 100050
+    second: FG_RingLower_R
+  - first:
+      1: 100052
+    second: FG_RingUpper_L
+  - first:
+      1: 100054
+    second: FG_RingUpper_R
+  - first:
+      1: 100056
+    second: FG_Root
+  - first:
+      1: 100058
+    second: FG_Shoulder_L
+  - first:
+      1: 100060
+    second: FG_Shoulder_R
+  - first:
+      1: 100062
+    second: FG_Spike_1
+  - first:
+      1: 100064
+    second: FG_Spike_2
+  - first:
+      1: 100066
+    second: FG_Spike_3
+  - first:
+      1: 100068
+    second: FG_Spike_4
+  - first:
+      1: 100070
+    second: FG_Spine
+  - first:
+      1: 100072
+    second: FG_Spine_Lower
+  - first:
+      1: 100074
+    second: FG_Spine_Middle
+  - first:
+      1: 100076
+    second: FG_Spine_Middle_2
+  - first:
+      1: 100078
+    second: FG_ThumbLower_L
+  - first:
+      1: 100080
+    second: FG_ThumbLower_R
+  - first:
+      1: 100082
+    second: FG_ThumbUpper_L
+  - first:
+      1: 100084
+    second: FG_ThumbUpper_R
+  - first:
+      1: 100086
+    second: FG_Tip_ArmLower_L
+  - first:
+      1: 100088
+    second: FG_Tip_ArmLower_R
+  - first:
+      1: 100090
+    second: FG_Tip_Clavicle_L
+  - first:
+      1: 100092
+    second: FG_Tip_Clavicle_R
+  - first:
+      1: 100094
+    second: FG_Tip_Foot_L
+  - first:
+      1: 100096
+    second: FG_Tip_Foot_R
+  - first:
+      1: 100098
+    second: FG_Tip_LegUpper_L
+  - first:
+      1: 100100
+    second: FG_Tip_LegUpper_R
+  - first:
+      1: 100102
+    second: FG_Tip_Neck
+  - first:
+      1: 100104
+    second: FG_Tip_Neck_1
+  - first:
+      1: 100106
+    second: FG_Tip_Spine
+  - first:
+      1: 100108
+    second: FG_Toe_L
+  - first:
+      1: 100110
+    second: FG_Toe_R
+  - first:
+      4: 400000
+    second: 0_Mesh
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: FG_ArmLower_L
+  - first:
+      4: 400006
+    second: FG_ArmLower_R
+  - first:
+      4: 400008
+    second: FG_ArmUpper_L
+  - first:
+      4: 400010
+    second: FG_ArmUpper_R
+  - first:
+      4: 400012
+    second: FG_Floating_L
+  - first:
+      4: 400014
+    second: FG_Floating_R
+  - first:
+      4: 400016
+    second: FG_Foot_L
+  - first:
+      4: 400018
+    second: FG_Foot_R
+  - first:
+      4: 400020
+    second: FG_Hand_L
+  - first:
+      4: 400022
+    second: FG_Hand_R
+  - first:
+      4: 400024
+    second: FG_Head
+  - first:
+      4: 400026
+    second: FG_IndexLower_L
+  - first:
+      4: 400028
+    second: FG_IndexLower_R
+  - first:
+      4: 400030
+    second: FG_IndexUpper_L
+  - first:
+      4: 400032
+    second: FG_IndexUpper_R
+  - first:
+      4: 400034
+    second: FG_Jaw
+  - first:
+      4: 400036
+    second: FG_LegLower_L
+  - first:
+      4: 400038
+    second: FG_LegLower_R
+  - first:
+      4: 400040
+    second: FG_LegUpper_L
+  - first:
+      4: 400042
+    second: FG_LegUpper_R
+  - first:
+      4: 400044
+    second: FG_Origin
+  - first:
+      4: 400046
+    second: FG_Pelvis
+  - first:
+      4: 400048
+    second: FG_RingLower_L
+  - first:
+      4: 400050
+    second: FG_RingLower_R
+  - first:
+      4: 400052
+    second: FG_RingUpper_L
+  - first:
+      4: 400054
+    second: FG_RingUpper_R
+  - first:
+      4: 400056
+    second: FG_Root
+  - first:
+      4: 400058
+    second: FG_Shoulder_L
+  - first:
+      4: 400060
+    second: FG_Shoulder_R
+  - first:
+      4: 400062
+    second: FG_Spike_1
+  - first:
+      4: 400064
+    second: FG_Spike_2
+  - first:
+      4: 400066
+    second: FG_Spike_3
+  - first:
+      4: 400068
+    second: FG_Spike_4
+  - first:
+      4: 400070
+    second: FG_Spine
+  - first:
+      4: 400072
+    second: FG_Spine_Lower
+  - first:
+      4: 400074
+    second: FG_Spine_Middle
+  - first:
+      4: 400076
+    second: FG_Spine_Middle_2
+  - first:
+      4: 400078
+    second: FG_ThumbLower_L
+  - first:
+      4: 400080
+    second: FG_ThumbLower_R
+  - first:
+      4: 400082
+    second: FG_ThumbUpper_L
+  - first:
+      4: 400084
+    second: FG_ThumbUpper_R
+  - first:
+      4: 400086
+    second: FG_Tip_ArmLower_L
+  - first:
+      4: 400088
+    second: FG_Tip_ArmLower_R
+  - first:
+      4: 400090
+    second: FG_Tip_Clavicle_L
+  - first:
+      4: 400092
+    second: FG_Tip_Clavicle_R
+  - first:
+      4: 400094
+    second: FG_Tip_Foot_L
+  - first:
+      4: 400096
+    second: FG_Tip_Foot_R
+  - first:
+      4: 400098
+    second: FG_Tip_LegUpper_L
+  - first:
+      4: 400100
+    second: FG_Tip_LegUpper_R
+  - first:
+      4: 400102
+    second: FG_Tip_Neck
+  - first:
+      4: 400104
+    second: FG_Tip_Neck_1
+  - first:
+      4: 400106
+    second: FG_Tip_Spine
+  - first:
+      4: 400108
+    second: FG_Toe_L
+  - first:
+      4: 400110
+    second: FG_Toe_R
+  - first:
+      21: 2100000
+    second: No Name
+  - first:
+      43: 4300000
+    second: 0_Mesh
+  - first:
+      74: 7400000
+    second: Attack_1
+  - first:
+      74: 7400002
+    second: Attack_2
+  - first:
+      74: 7400004
+    second: Channel_A
+  - first:
+      74: 7400006
+    second: Channel_B
+  - first:
+      74: 7400008
+    second: Combat_Hit
+  - first:
+      74: 7400010
+    second: Death
+  - first:
+      74: 7400012
+    second: run
+  - first:
+      74: 7400014
+    second: Spell_B
+  - first:
+      74: 7400016
+    second: Spell_A
+  - first:
+      74: 7400018
+    second: Stand_1
+  - first:
+      74: 7400020
+    second: Stand_2
+  - first:
+      74: 7400022
+    second: walk
+  - first:
+      74: 7400024
+    second: Ready
+  - first:
+      74: 7400026
+    second: Ready_Spell
+  - first:
+      74: 7400028
+    second: Stun
+  - first:
+      74: 7400030
+    second: Birth
+  - first:
+      74: 7400032
+    second: Roar
+  - first:
+      74: 7400034
+    second: Channel_C
+  - first:
+      74: 7400036
+    second: Attack_3
+  - first:
+      74: 7400038
+    second: Talk
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: 0_Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3d0d87a222239024e8079c5b67123a14, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Attack_1' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'FG_Spine_Lower' has translation animation that
+      will be discarded.\n\t'FG_Spine_Middle_2' has translation animation that will
+      be discarded.\n\t'FG_Tip_Neck' has translation animation that will be discarded.\n\t'FG_Tip_Neck_1'
+      has translation animation that will be discarded.\n\t'FG_Head' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_R' has translation animation
+      that will be discarded.\n\t'FG_ArmUpper_R' has translation animation that will
+      be discarded.\n\t'FG_ArmLower_R' has translation animation that will be discarded.\n\t'FG_Hand_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_L' has
+      translation animation that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_L' has translation
+      animation that will be discarded.\n\t'FG_Pelvis' has translation animation that
+      will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_LegUpper_R' has translation
+      animation that will be discarded.\n\t'FG_LegLower_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation that will
+      be discarded.\n\t'FG_Foot_R' has translation animation that will be discarded.\n\t'FG_Toe_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' has
+      translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Tip_Foot_L' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_Foot_L' has translation
+      animation that will be discarded.\n\t'FG_Toe_L' has translation animation that
+      will be discarded.\n\nClip 'Attack_2' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'FG_Spine_Lower' has translation animation that will
+      be discarded.\n\t'FG_Spine_Middle_2' has translation animation that will be
+      discarded.\n\t'FG_Tip_Neck' has translation animation that will be discarded.\n\t'FG_Tip_Neck_1'
+      has translation animation that will be discarded.\n\t'FG_Tip_Neck_1' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_Head'
+      has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Pelvis' has translation
+      animation that will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has
+      translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation
+      that will be discarded.\n\t'FG_Foot_R' has translation animation that will be
+      discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Foot_L' has translation animation that will be
+      discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Channel_A' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Spine_Middle_2' has
+      translation animation that will be discarded.\n\t'FG_Tip_Neck_1' has translation
+      animation that will be discarded.\n\t'FG_Head' has translation animation that
+      will be discarded.\n\t'FG_Tip_Clavicle_R' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'FG_ArmUpper_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Foot_R' has translation animation that
+      will be discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Foot_L' has translation animation that
+      will be discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Channel_B' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Spine_Middle_2' has
+      translation animation that will be discarded.\n\t'FG_Tip_Neck' has translation
+      animation that will be discarded.\n\t'FG_Tip_Neck_1' has translation animation
+      that will be discarded.\n\t'FG_Head' has translation animation that will be
+      discarded.\n\t'FG_ArmUpper_R' has translation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Pelvis' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Foot_R' has translation
+      animation that will be discarded.\n\t'FG_Toe_R' has translation animation that
+      will be discarded.\n\t'FG_Tip_LegUpper_L' has translation animation that will
+      be discarded.\n\t'FG_LegUpper_L' has translation animation that will be discarded.\n\t'FG_Foot_L'
+      has translation animation that will be discarded.\n\t'FG_Toe_L' has translation
+      animation that will be discarded.\n\nClip 'Combat_Hit' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'FG_Spine_Lower' has translation
+      animation that will be discarded.\n\t'FG_Spine_Middle_2' has translation animation
+      that will be discarded.\n\t'FG_Tip_Neck' has translation animation that will
+      be discarded.\n\t'FG_Tip_Neck_1' has translation animation that will be discarded.\n\t'FG_Head'
+      has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' has
+      translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_L' has
+      translation animation that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Pelvis' has translation
+      animation that will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has
+      translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation
+      that will be discarded.\n\t'FG_Foot_R' has translation animation that will be
+      discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Foot_L' has translation animation that will be
+      discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Death' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Spine_Middle' has translation
+      animation that will be discarded.\n\t'FG_Spine_Middle' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'FG_Spine_Middle_2'
+      has translation animation that will be discarded.\n\t'FG_Tip_Neck' has translation
+      animation that will be discarded.\n\t'FG_Tip_Neck_1' has translation animation
+      that will be discarded.\n\t'FG_Head' has translation animation that will be
+      discarded.\n\t'FG_Tip_Clavicle_R' has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmLower_R'
+      has translation animation that will be discarded.\n\t'FG_Hand_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_L' has translation animation
+      that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L' has translation
+      animation that will be discarded.\n\t'FG_ArmLower_L' has translation animation
+      that will be discarded.\n\t'FG_Hand_L' has translation animation that will be
+      discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_LegUpper_R' has translation
+      animation that will be discarded.\n\t'FG_LegLower_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation that will
+      be discarded.\n\t'FG_Tip_Foot_R' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'FG_Foot_R' has translation animation that
+      will be discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Tip_Foot_L' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_Foot_L' has translation
+      animation that will be discarded.\n\t'FG_Toe_L' has translation animation that
+      will be discarded.\n\nClip 'run' has import animation warnings that might lower
+      retargeting quality:\nNote: Activate translation DOF on avatar to improve retargeting
+      quality.\n\t'FG_Spine_Lower' has translation animation that will be discarded.\n\t'FG_Spine_Middle_2'
+      has translation animation that will be discarded.\n\t'FG_Tip_Neck' has translation
+      animation that will be discarded.\n\t'FG_Tip_Neck_1' has translation animation
+      that will be discarded.\n\t'FG_Head' has translation animation that will be
+      discarded.\n\t'FG_Jaw' has translation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_L' has translation
+      animation that will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has
+      translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation
+      that will be discarded.\n\t'FG_Foot_R' has translation animation that will be
+      discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Foot_L' has translation animation that will be
+      discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Spell_B' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Spine_Middle' has translation
+      animation that will be discarded.\n\t'FG_Spine_Middle' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'FG_Spine_Middle_2'
+      has translation animation that will be discarded.\n\t'FG_Tip_Neck' has translation
+      animation that will be discarded.\n\t'FG_Tip_Neck_1' has translation animation
+      that will be discarded.\n\t'FG_Head' has translation animation that will be
+      discarded.\n\t'FG_Jaw' has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_R' has translation
+      animation that will be discarded.\n\t'FG_Hand_R' has translation animation that
+      will be discarded.\n\t'FG_Tip_Clavicle_L' has translation animation that will
+      be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'FG_ArmUpper_L' has translation
+      animation that will be discarded.\n\t'FG_ArmLower_L' has translation animation
+      that will be discarded.\n\t'FG_Hand_L' has translation animation that will be
+      discarded.\n\t'FG_Pelvis' has translation animation that will be discarded.\n\t'FG_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation
+      that will be discarded.\n\t'FG_Foot_R' has translation animation that will be
+      discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Foot_L' has translation animation that will be
+      discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Spell_A' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine'
+      has translation animation that will be discarded.\n\t'FG_Spine_Lower' has translation
+      animation that will be discarded.\n\t'FG_Spine_Middle_2' has translation animation
+      that will be discarded.\n\t'FG_Tip_Neck' has translation animation that will
+      be discarded.\n\t'FG_Tip_Neck_1' has translation animation that will be discarded.\n\t'FG_Tip_Neck_1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_Head'
+      has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' has
+      translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_R' has translation
+      animation that will be discarded.\n\t'FG_Hand_R' has translation animation that
+      will be discarded.\n\t'FG_Tip_Clavicle_L' has translation animation that will
+      be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'FG_ArmUpper_L' has translation
+      animation that will be discarded.\n\t'FG_ArmLower_L' has translation animation
+      that will be discarded.\n\t'FG_Hand_L' has translation animation that will be
+      discarded.\n\t'FG_Pelvis' has translation animation that will be discarded.\n\t'FG_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation
+      that will be discarded.\n\t'FG_Foot_R' has translation animation that will be
+      discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Foot_L' has translation animation that will be
+      discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Stand_1' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Spine_Middle_2' has
+      translation animation that will be discarded.\n\t'FG_Tip_Neck' has translation
+      animation that will be discarded.\n\t'FG_Tip_Neck_1' has translation animation
+      that will be discarded.\n\t'FG_Head' has translation animation that will be
+      discarded.\n\t'FG_Tip_Clavicle_R' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'FG_ArmUpper_R' has translation animation
+      that will be discarded.\n\t'FG_ArmLower_R' has translation animation that will
+      be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'FG_ArmUpper_L' has translation
+      animation that will be discarded.\n\t'FG_ArmLower_L' has translation animation
+      that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Foot_R' has translation animation that
+      will be discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegLower_L'
+      has translation animation that will be discarded.\n\t'FG_Foot_L' has translation
+      animation that will be discarded.\n\t'FG_Toe_L' has translation animation that
+      will be discarded.\n\nClip 'Stand_2' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'FG_Spine_Lower' has translation animation that will
+      be discarded.\n\t'FG_Tip_Neck' has translation animation that will be discarded.\n\t'FG_Tip_Neck_1'
+      has translation animation that will be discarded.\n\t'FG_Head' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_R' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_L' has translation
+      animation that will be discarded.\n\t'FG_Pelvis' has translation animation that
+      will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_LegUpper_R' has translation
+      animation that will be discarded.\n\t'FG_LegLower_R' has translation animation
+      that will be discarded.\n\t'FG_Foot_R' has translation animation that will be
+      discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Foot_L' has translation animation that
+      will be discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'walk' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Spine_Middle' has translation
+      animation that will be discarded.\n\t'FG_Spine_Middle_2' has translation animation
+      that will be discarded.\n\t'FG_Tip_Neck' has translation animation that will
+      be discarded.\n\t'FG_Tip_Neck_1' has translation animation that will be discarded.\n\t'FG_Head'
+      has translation animation that will be discarded.\n\t'FG_ArmUpper_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_L' has translation
+      animation that will be discarded.\n\t'FG_Hand_L' has translation animation that
+      will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_LegUpper_R' has translation
+      animation that will be discarded.\n\t'FG_LegLower_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation that will
+      be discarded.\n\t'FG_Foot_R' has translation animation that will be discarded.\n\t'FG_Toe_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' has
+      translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Foot_L' has translation animation that will be
+      discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Ready' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Middle_2'
+      has translation animation that will be discarded.\n\t'FG_Tip_Neck' has translation
+      animation that will be discarded.\n\t'FG_Tip_Neck_1' has translation animation
+      that will be discarded.\n\t'FG_Head' has translation animation that will be
+      discarded.\n\t'FG_Jaw' has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_L' has translation animation
+      that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L' has translation
+      animation that will be discarded.\n\t'FG_ArmLower_L' has translation animation
+      that will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Foot_R' has translation animation that
+      will be discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Foot_L' has translation
+      animation that will be discarded.\n\t'FG_Toe_L' has translation animation that
+      will be discarded.\n\nClip 'Ready_Spell' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'FG_Spine_Lower' has translation animation that
+      will be discarded.\n\t'FG_Spine_Middle_2' has translation animation that will
+      be discarded.\n\t'FG_Tip_Neck' has translation animation that will be discarded.\n\t'FG_Tip_Neck_1'
+      has translation animation that will be discarded.\n\t'FG_Head' has translation
+      animation that will be discarded.\n\t'FG_Jaw' has translation animation that
+      will be discarded.\n\t'FG_ArmUpper_R' has translation animation that will be
+      discarded.\n\t'FG_ArmLower_R' has translation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_L' has translation
+      animation that will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has
+      translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Foot_R' has translation animation that
+      will be discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Foot_L' has translation animation that
+      will be discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Stun' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Tip_Neck' has translation
+      animation that will be discarded.\n\t'FG_Tip_Neck_1' has translation animation
+      that will be discarded.\n\t'FG_Head' has translation animation that will be
+      discarded.\n\t'FG_Tip_Clavicle_R' has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_L' has translation
+      animation that will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has
+      translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Foot_R' has translation animation that
+      will be discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Foot_L' has translation
+      animation that will be discarded.\n\t'FG_Toe_L' has translation animation that
+      will be discarded.\n\nClip 'Birth' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'FG_Spine_Lower' has translation animation that will
+      be discarded.\n\t'FG_Spine_Middle_2' has translation animation that will be
+      discarded.\n\t'FG_Tip_Neck' has translation animation that will be discarded.\n\t'FG_Tip_Neck_1'
+      has translation animation that will be discarded.\n\t'FG_Head' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_Clavicle_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R' has translation
+      animation that will be discarded.\n\t'FG_ArmLower_R' has translation animation
+      that will be discarded.\n\t'FG_Hand_R' has translation animation that will be
+      discarded.\n\t'FG_Tip_Clavicle_L' has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_L'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_L' has translation
+      animation that will be discarded.\n\t'FG_Hand_L' has translation animation that
+      will be discarded.\n\t'FG_Pelvis' has translation animation that will be discarded.\n\t'FG_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation
+      that will be discarded.\n\t'FG_Foot_R' has translation animation that will be
+      discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Foot_L' has translation animation that will be
+      discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Roar' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Spine_Middle_2' has
+      translation animation that will be discarded.\n\t'FG_Tip_Neck' has translation
+      animation that will be discarded.\n\t'FG_Tip_Neck_1' has translation animation
+      that will be discarded.\n\t'FG_Head' has translation animation that will be
+      discarded.\n\t'FG_Tip_Clavicle_R' has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_L' has translation animation
+      that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L' has translation
+      animation that will be discarded.\n\t'FG_ArmLower_L' has translation animation
+      that will be discarded.\n\t'FG_Hand_L' has translation animation that will be
+      discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_LegUpper_R' has translation
+      animation that will be discarded.\n\t'FG_LegLower_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation that will
+      be discarded.\n\t'FG_Foot_R' has translation animation that will be discarded.\n\t'FG_Toe_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' has
+      translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Foot_L' has translation animation that will be
+      discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Channel_C' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Spine_Middle' has translation
+      animation that will be discarded.\n\t'FG_Spine_Middle_2' has translation animation
+      that will be discarded.\n\t'FG_Tip_Neck' has translation animation that will
+      be discarded.\n\t'FG_Tip_Neck_1' has translation animation that will be discarded.\n\t'FG_Head'
+      has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' has
+      translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Hand_R' has translation
+      animation that will be discarded.\n\t'FG_Tip_Clavicle_L' has translation animation
+      that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L' has translation
+      animation that will be discarded.\n\t'FG_ArmLower_L' has translation animation
+      that will be discarded.\n\t'FG_Pelvis' has translation animation that will be
+      discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_LegUpper_R' has translation
+      animation that will be discarded.\n\t'FG_LegLower_R' has translation animation
+      that will be discarded.\n\t'FG_Foot_R' has translation animation that will be
+      discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Foot_L' has translation
+      animation that will be discarded.\n\t'FG_Toe_L' has translation animation that
+      will be discarded.\n\nClip 'Attack_3' has import animation warnings that might
+      lower retargeting quality:\nNote: Activate translation DOF on avatar to improve
+      retargeting quality.\n\t'FG_Spine_Lower' has translation animation that will
+      be discarded.\n\t'FG_Spine_Middle_2' has translation animation that will be
+      discarded.\n\t'FG_Tip_Neck' has translation animation that will be discarded.\n\t'FG_Tip_Neck_1'
+      has translation animation that will be discarded.\n\t'FG_Head' has translation
+      animation that will be discarded.\n\t'FG_ArmUpper_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_Clavicle_L' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_ArmUpper_L' has translation
+      animation that will be discarded.\n\t'FG_Pelvis' has translation animation that
+      will be discarded.\n\t'FG_Pelvis' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'FG_Tip_LegUpper_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_LegUpper_R' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'FG_LegUpper_R' has translation
+      animation that will be discarded.\n\t'FG_LegLower_R' has translation animation
+      that will be discarded.\n\t'FG_Tip_Foot_R' has translation animation that will
+      be discarded.\n\t'FG_Foot_R' has translation animation that will be discarded.\n\t'FG_Toe_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' has
+      translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Tip_Foot_L' has translation animation
+      that will be discarded.\n\t'FG_Foot_L' has translation animation that will be
+      discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n\nClip
+      'Talk' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'FG_Spine_Lower'
+      has translation animation that will be discarded.\n\t'FG_Spine_Middle' has translation
+      animation that will be discarded.\n\t'FG_Spine_Middle_2' has translation animation
+      that will be discarded.\n\t'FG_Tip_Neck' has translation animation that will
+      be discarded.\n\t'FG_Tip_Neck_1' has translation animation that will be discarded.\n\t'FG_Head'
+      has translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' has
+      translation animation that will be discarded.\n\t'FG_Tip_Clavicle_R' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'FG_ArmUpper_R'
+      has translation animation that will be discarded.\n\t'FG_ArmLower_R' has translation
+      animation that will be discarded.\n\t'FG_ArmUpper_L' has translation animation
+      that will be discarded.\n\t'FG_ArmLower_L' has translation animation that will
+      be discarded.\n\t'FG_Pelvis' has translation animation that will be discarded.\n\t'FG_Pelvis'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_Tip_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_R' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_R'
+      has translation animation that will be discarded.\n\t'FG_LegLower_R' has translation
+      animation that will be discarded.\n\t'FG_Foot_R' has translation animation that
+      will be discarded.\n\t'FG_Toe_R' has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_Tip_LegUpper_L' is
+      inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'FG_LegUpper_L'
+      has translation animation that will be discarded.\n\t'FG_LegLower_L' has translation
+      animation that will be discarded.\n\t'FG_Foot_L' has translation animation that
+      will be discarded.\n\t'FG_Toe_L' has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack_1
+      takeName: Attack_1
+      internalID: 0
+      firstFrame: 10
+      lastFrame: 44
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_2
+      takeName: Attack_2
+      internalID: 0
+      firstFrame: 74
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Channel_A
+      takeName: Channel_A
+      internalID: 0
+      firstFrame: 134
+      lastFrame: 182
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Channel_B
+      takeName: Channel_B
+      internalID: 0
+      firstFrame: 212
+      lastFrame: 235
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Combat_Hit
+      takeName: Combat_Hit
+      internalID: 0
+      firstFrame: 265
+      lastFrame: 294
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Death
+      internalID: 0
+      firstFrame: 324
+      lastFrame: 410
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: run
+      internalID: 0
+      firstFrame: 440
+      lastFrame: 460
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spell_B
+      takeName: Spell_B
+      internalID: 0
+      firstFrame: 490
+      lastFrame: 521
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spell_A
+      takeName: Spell_A
+      internalID: 0
+      firstFrame: 551
+      lastFrame: 577
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand_1
+      takeName: Stand_1
+      internalID: 0
+      firstFrame: 607
+      lastFrame: 667
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stand_2
+      takeName: Stand_2
+      internalID: 0
+      firstFrame: 697
+      lastFrame: 830
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: walk
+      takeName: walk
+      internalID: 0
+      firstFrame: 860
+      lastFrame: 890
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ready
+      takeName: Ready
+      internalID: 0
+      firstFrame: 920
+      lastFrame: 970
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Ready_Spell
+      takeName: Ready_Spell
+      internalID: 0
+      firstFrame: 1000
+      lastFrame: 1036
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stun
+      takeName: Stun
+      internalID: 0
+      firstFrame: 1066
+      lastFrame: 1126
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Birth
+      takeName: Birth
+      internalID: 0
+      firstFrame: 1156
+      lastFrame: 1204
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Roar
+      takeName: Roar
+      internalID: 0
+      firstFrame: 1234
+      lastFrame: 1265
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Channel_C
+      takeName: Channel_C
+      internalID: 0
+      firstFrame: 1295
+      lastFrame: 1355
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack_3
+      takeName: Attack_3
+      internalID: 0
+      firstFrame: 1385
+      lastFrame: 1414
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Talk
+      takeName: Talk
+      internalID: 0
+      firstFrame: 1444
+      lastFrame: 1514
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: FG_Root
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_LegUpper_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_LegUpper_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_LegLower_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_LegLower_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Spine_Lower
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Tip_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_ArmUpper_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_ArmUpper_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_ArmLower_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_ArmLower_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_ThumbUpper_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_ThumbLower_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_IndexUpper_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_IndexLower_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_RingUpper_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_RingLower_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_ThumbUpper_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_ThumbLower_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_IndexUpper_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_IndexLower_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_RingUpper_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_RingLower_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: FG_Spine_Middle_2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: EarthGolem Mecanim(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 0_Mesh
+      parentName: EarthGolem Mecanim(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Origin
+      parentName: EarthGolem Mecanim(Clone)
+      position: {x: -0, y: -0.015239999, z: 0}
+      rotation: {x: -0.7070636, y: -1.6075086e-13, z: -0.00008631938, w: 0.7071499}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Root
+      parentName: FG_Origin
+      position: {x: -0.07631753, y: 0.10220015, z: 0.5961288}
+      rotation: {x: -0.09989221, y: 0.13392547, z: 0.07029762, w: 0.9834347}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Pelvis
+      parentName: FG_Root
+      position: {x: 0.00015094838, y: 0.03812617, z: -0.06778076}
+      rotation: {x: -0.00012213178, y: -0.00012207404, z: 0.00012209236, w: 1}
+      scale: {x: 1.0000001, y: 0.9999995, z: 0.99999934}
+    - name: FG_Tip_LegUpper_L
+      parentName: FG_Pelvis
+      position: {x: -0.012716581, y: -0.09406994, z: 0.017300276}
+      rotation: {x: 0.00009155553, y: 0.00006103702, z: -0.00009155553, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_LegUpper_L
+      parentName: FG_Tip_LegUpper_L
+      position: {x: -0.050898794, y: -0.041628342, z: -0.0272957}
+      rotation: {x: 0.34009415, y: -0.07538633, z: 0.06713093, w: 0.934958}
+      scale: {x: 0.99999994, y: 0.99999976, z: 1}
+    - name: FG_LegLower_L
+      parentName: FG_LegUpper_L
+      position: {x: -0.00008234962, y: -0.15728319, z: -0.17645916}
+      rotation: {x: -0.35060716, y: -0.005524552, z: -0.03279487, w: 0.935932}
+      scale: {x: 1, y: 1, z: 1.0000004}
+    - name: FG_Tip_Foot_L
+      parentName: FG_LegLower_L
+      position: {x: -0.00009078903, y: 0.14185758, z: -0.15666446}
+      rotation: {x: 0.12191979, y: 0.00006103619, z: -0.0000305181, w: 0.99253994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Foot_L
+      parentName: FG_Tip_Foot_L
+      position: {x: 0.01502855, y: -0.01054214, z: -0.024331767}
+      rotation: {x: -0.1149228, y: 0.08686811, z: -0.014434842, w: 0.9894637}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000007}
+    - name: FG_Toe_L
+      parentName: FG_Foot_L
+      position: {x: -0.002213053, y: -0.1806009, z: -0.115553506}
+      rotation: {x: -0, y: -0.0000000038708095, z: 0.00000007332801, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: FG_Tip_LegUpper_R
+      parentName: FG_Pelvis
+      position: {x: 0.11599565, y: -0.09413334, z: 0.01730624}
+      rotation: {x: 0.00009155553, y: 0.00006103702, z: -0.00009155553, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_LegUpper_R
+      parentName: FG_Tip_LegUpper_R
+      position: {x: 0.11395591, y: -0.04167087, z: -0.027291851}
+      rotation: {x: 0.32940295, y: -0.10701621, z: 0.095619895, w: 0.93321925}
+      scale: {x: 0.9999998, y: 0.99999946, z: 1}
+    - name: FG_LegLower_R
+      parentName: FG_LegUpper_R
+      position: {x: 0.00005554894, y: -0.13692112, z: -0.15359063}
+      rotation: {x: -0.37286055, y: -0.06495099, z: -0.02383563, w: 0.9253045}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1.0000002}
+    - name: FG_Tip_Foot_R
+      parentName: FG_LegLower_R
+      position: {x: 0.000091632006, y: 0.11756001, z: -0.12993598}
+      rotation: {x: 0.12191979, y: 0.00006103619, z: -0.0000305181, w: 0.99253994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Foot_R
+      parentName: FG_Tip_Foot_R
+      position: {x: -0.011851157, y: 0.0008020695, z: -0.028070131}
+      rotation: {x: -0.08561904, y: 0.18532908, z: -0.02760814, w: 0.9785502}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000001}
+    - name: FG_Toe_R
+      parentName: FG_Foot_R
+      position: {x: 0.00060251175, y: -0.18115693, z: -0.115501635}
+      rotation: {x: -0, y: -2.2191671e-10, z: -0.0000000045815796, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000002}
+    - name: FG_Spine
+      parentName: FG_Root
+      position: {x: -0.0000000018167498, y: -0.003355149, z: 0.0062165777}
+      rotation: {x: -0.00012213178, y: -0.00012207404, z: 0.00012207404, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 0.9999998}
+    - name: FG_Spine_Lower
+      parentName: FG_Spine
+      position: {x: 0.0018037508, y: -0.011326913, z: 0.1903442}
+      rotation: {x: -0.4994778, y: 0.1723068, z: -0.117523305, w: 0.84084517}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Spine_Middle
+      parentName: FG_Spine_Lower
+      position: {x: -0.0055156304, y: 0.015576387, z: -0.0072758277}
+      rotation: {x: -0.008697712, y: 0.00027466464, z: 0.00021362801, w: 0.99996215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Spine_Middle_2
+      parentName: FG_Spine_Middle
+      position: {x: -0.016979296, y: -0.060948018, z: -0.009989734}
+      rotation: {x: -0.06306619, y: 0.060870614, z: -0.05833795, w: 0.9944416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Tip_Clavicle_L
+      parentName: FG_Spine_Middle_2
+      position: {x: -0.12049464, y: -0.5055484, z: -0.11203529}
+      rotation: {x: 0.703699, y: 0.030151118, z: 0.012878311, w: 0.70974135}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_ArmUpper_L
+      parentName: FG_Tip_Clavicle_L
+      position: {x: -0.30329618, y: 0.024736263, z: -0.05031085}
+      rotation: {x: -0.07933805, y: 0.55370575, z: -0.2173998, w: 0.799908}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.99999946}
+    - name: FG_ArmLower_L
+      parentName: FG_ArmUpper_L
+      position: {x: 0.14792944, y: -0.26654658, z: -0.45793754}
+      rotation: {x: 0.7006493, y: -0.026961679, z: 0.098228015, w: 0.70619744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Hand_L
+      parentName: FG_ArmLower_L
+      position: {x: 0.036470465, y: -0.52746487, z: 0.30862975}
+      rotation: {x: -0.06112802, y: 0.12073012, z: -0.036377728, w: 0.99013346}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000012}
+    - name: FG_IndexUpper_L
+      parentName: FG_Hand_L
+      position: {x: 0.072826564, y: -0.0961533, z: -0.23432787}
+      rotation: {x: -0.8907878, y: -0.03166206, z: -0.033841718, w: 0.45205015}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000012}
+    - name: FG_IndexLower_L
+      parentName: FG_IndexUpper_L
+      position: {x: 0.0036360861, y: 0.040288433, z: -0.13340078}
+      rotation: {x: -6.2450045e-17, y: -0.000000052154064, z: 4.656613e-10, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000005}
+    - name: FG_ThumbUpper_L
+      parentName: FG_Hand_L
+      position: {x: 0.15633899, y: 0.09183406, z: -0.036081713}
+      rotation: {x: -0.5953464, y: -0.7297794, z: -0.16182995, w: 0.29461107}
+      scale: {x: 1, y: 1.0000005, z: 1.000001}
+    - name: FG_ThumbLower_L
+      parentName: FG_ThumbUpper_L
+      position: {x: 0.033759985, y: 0.009100801, z: -0.16523786}
+      rotation: {x: 0.0000000037252903, y: 0.000000044703484, z: 0.0000000069849193,
+        w: 1}
+      scale: {x: 1, y: 1.0000007, z: 1.0000005}
+    - name: FG_RingUpper_L
+      parentName: FG_Hand_L
+      position: {x: -0.092341356, y: -0.09909382, z: -0.18510693}
+      rotation: {x: -0.832035, y: -0.05889833, z: -0.10064373, w: 0.54232806}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000013}
+    - name: FG_RingLower_L
+      parentName: FG_RingUpper_L
+      position: {x: 0.020026566, y: 0.017604042, z: -0.17586446}
+      rotation: {x: -2.6367797e-16, y: -0.000000014901161, z: 0.00000002514571, w: 1}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000012}
+    - name: FG_Tip_ArmLower_L
+      parentName: FG_ArmLower_L
+      position: {x: -0.03851552, y: 0.1283363, z: 0.059156563}
+      rotation: {x: -0.061128017, y: 0.12073013, z: -0.03637771, w: 0.99013346}
+      scale: {x: 0.9999999, y: 0.99999946, z: 0.9999998}
+    - name: FG_Shoulder_L
+      parentName: FG_ArmUpper_L
+      position: {x: -0.030703649, y: -0.045364477, z: 0.04374384}
+      rotation: {x: 0.000000014901161, y: 0.000000041676685, z: 0.000000003434252,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: FG_Floating_L
+      parentName: FG_ArmUpper_L
+      position: {x: -0.20107344, y: -0.27707377, z: -0.24814744}
+      rotation: {x: 0.00000013411045, y: 0.000000027939677, z: -0.00000000896398,
+        w: 1}
+      scale: {x: 1, y: 1.0000007, z: 1.0000006}
+    - name: FG_Tip_Clavicle_R
+      parentName: FG_Spine_Middle_2
+      position: {x: 0.124350205, y: -0.4514807, z: 0.11109813}
+      rotation: {x: 0.6957828, y: -0.023407409, z: -0.012848133, w: 0.7177558}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_ArmUpper_R
+      parentName: FG_Tip_Clavicle_R
+      position: {x: 0.26551968, y: 0.030451726, z: -0.049464144}
+      rotation: {x: -0.28638107, y: -0.56893873, z: 0.67361796, w: 0.37487808}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000004}
+    - name: FG_ArmLower_R
+      parentName: FG_ArmUpper_R
+      position: {x: -0.07652567, y: -0.2630955, z: -0.5131585}
+      rotation: {x: 0.69208103, y: -0.027091423, z: 0.048375785, w: 0.71968716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FG_Hand_R
+      parentName: FG_ArmLower_R
+      position: {x: -0.13482982, y: -0.4933364, z: 0.23684692}
+      rotation: {x: 0.0013427887, y: -0.11902035, z: -0.031677686, w: 0.99238545}
+      scale: {x: 1.0000005, y: 1, z: 1.0000001}
+    - name: FG_IndexUpper_R
+      parentName: FG_Hand_R
+      position: {x: -0.07282644, y: -0.09615318, z: -0.23432787}
+      rotation: {x: -0.898436, y: 0.10870669, z: 0.05732069, w: 0.42155668}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000006}
+    - name: FG_IndexLower_R
+      parentName: FG_IndexUpper_R
+      position: {x: -0.003636309, y: 0.040288433, z: -0.13340084}
+      rotation: {x: -3.7470027e-16, y: 0.000000022351742, z: 0.000000018597348, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: FG_ThumbUpper_R
+      parentName: FG_Hand_R
+      position: {x: -0.15633892, y: 0.09183406, z: -0.036081713}
+      rotation: {x: -0.38944498, y: 0.6709066, z: 0.11651861, w: 0.6201938}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000006}
+    - name: FG_ThumbLower_R
+      parentName: FG_ThumbUpper_R
+      position: {x: -0.033759914, y: 0.009100684, z: -0.16523787}
+      rotation: {x: -3.4924602e-10, y: 0.000000044703484, z: -0.000000011234079, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.000001}
+    - name: FG_RingUpper_R
+      parentName: FG_Hand_R
+      position: {x: 0.092341416, y: -0.09909364, z: -0.18510696}
+      rotation: {x: -0.83970755, y: 0.12964553, z: 0.108598866, w: 0.51603264}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000002}
+    - name: FG_RingLower_R
+      parentName: FG_RingUpper_R
+      position: {x: -0.02002649, y: 0.017604042, z: -0.17586446}
+      rotation: {x: 2.7755576e-16, y: -0, z: -0.000000018626451, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000005}
+    - name: FG_Tip_ArmLower_R
+      parentName: FG_ArmLower_R
+      position: {x: 0.09138396, y: 0.15236251, z: -0.02265345}
+      rotation: {x: 0.0013427906, y: -0.11902031, z: -0.031677693, w: 0.99238545}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: FG_Shoulder_R
+      parentName: FG_ArmUpper_R
+      position: {x: 0.10570459, y: -0.12084581, z: -0.10298603}
+      rotation: {x: -0, y: 0.000000022351742, z: 0.000000031664968, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: FG_Floating_R
+      parentName: FG_ArmUpper_R
+      position: {x: 0.26075816, y: -0.13228244, z: -0.5297313}
+      rotation: {x: 0.0000001490116, y: 0.00000003352761, z: 0.000000013969837, w: 1}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.000001}
+    - name: FG_Tip_Neck
+      parentName: FG_Spine_Middle_2
+      position: {x: -0.04010493, y: -0.24388033, z: 0.12709005}
+      rotation: {x: 0.3702303, y: -0.16587947, z: 0.035406623, w: 0.9133236}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: FG_Tip_Neck_1
+      parentName: FG_Tip_Neck
+      position: {x: 0.01706095, y: -0.21459971, z: 0.0849414}
+      rotation: {x: -0, y: -0.0000000034374583, z: -0.000000027499679, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: FG_Head
+      parentName: FG_Tip_Neck_1
+      position: {x: 0.018591443, y: -0.18184218, z: 0.06459625}
+      rotation: {x: -0, y: 0.000000003151005, z: 0.0000000068749206, w: 1}
+      scale: {x: 1, y: 0.9999989, z: 0.9999993}
+    - name: FG_Jaw
+      parentName: FG_Head
+      position: {x: -0.004691493, y: -0.16937904, z: -0.11901913}
+      rotation: {x: -0, y: -0.000000009739471, z: -4.440892e-16, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: FG_Spike_4
+      parentName: FG_Tip_Neck
+      position: {x: -0.015788106, y: 0.20243895, z: 0.09349847}
+      rotation: {x: -0, y: -0.000000014901159, z: -0.000000029802319, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000005}
+    - name: FG_Spike_3
+      parentName: FG_Spine_Middle_2
+      position: {x: -0.09273892, y: -0.058035053, z: 0.2958307}
+      rotation: {x: 0.47338468, y: -0.1483675, z: 0.19885144, w: 0.8451936}
+      scale: {x: 1.0000002, y: 1.000001, z: 1.0000006}
+    - name: FG_Spike_2
+      parentName: FG_Spine_Lower
+      position: {x: -0.053954538, y: 0.1307741, z: 0.13771124}
+      rotation: {x: 0.3631416, y: -0.072054595, z: 0.13977547, w: 0.9183677}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: FG_Spike_1
+      parentName: FG_Spine_Lower
+      position: {x: -0.028630776, y: 0.20568115, z: -0.055753417}
+      rotation: {x: 0.3631416, y: -0.07205454, z: 0.13977545, w: 0.9183677}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: FG_Tip_Spine
+      parentName: FG_Spine
+      position: {x: 0.00090539793, y: 0.13086869, z: 0.002343055}
+      rotation: {x: -0, y: 2.9357527e-11, z: -2.6855155e-11, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

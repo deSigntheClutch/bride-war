@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 3cecb9ee10855fb48b766bdc2d2072c9
+timeCreated: 1436224555
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box004
+    100004: Box005
+    100006: Box011
+    100008: Box012
+    100010: Cylinder002
+    100012: Cylinder004
+    100014: Cylinder009
+    100016: Cylinder010
+    100018: Cylinder011
+    100020: Cylinder012
+    100022: Cylinder013
+    100024: Cylinder014
+    100026: Cylinder015
+    100028: //RootNode
+    100030: Torus001
+    100032: Torus004
+    100034: Torus005
+    100036: Torus006
+    400000: Box001
+    400002: Box004
+    400004: Box005
+    400006: Box011
+    400008: Box012
+    400010: Cylinder002
+    400012: Cylinder004
+    400014: Cylinder009
+    400016: Cylinder010
+    400018: Cylinder011
+    400020: Cylinder012
+    400022: Cylinder013
+    400024: Cylinder014
+    400026: Cylinder015
+    400028: //RootNode
+    400030: Torus001
+    400032: Torus004
+    400034: Torus005
+    400036: Torus006
+    2300000: Box001
+    2300002: Box004
+    2300004: Box005
+    2300006: Box011
+    2300008: Box012
+    2300010: Cylinder002
+    2300012: Cylinder004
+    2300014: Cylinder009
+    2300016: Cylinder010
+    2300018: Cylinder011
+    2300020: Cylinder012
+    2300022: Cylinder013
+    2300024: Cylinder014
+    2300026: Cylinder015
+    2300028: Torus001
+    2300030: Torus004
+    2300032: Torus005
+    2300034: Torus006
+    3300000: Box001
+    3300002: Box004
+    3300004: Box005
+    3300006: Box011
+    3300008: Box012
+    3300010: Cylinder002
+    3300012: Cylinder004
+    3300014: Cylinder009
+    3300016: Cylinder010
+    3300018: Cylinder011
+    3300020: Cylinder012
+    3300022: Cylinder013
+    3300024: Cylinder014
+    3300026: Cylinder015
+    3300028: Torus001
+    3300030: Torus004
+    3300032: Torus005
+    3300034: Torus006
+    4300000: Box001
+    4300002: Cylinder002
+    4300004: Cylinder004
+    4300006: Torus001
+    4300008: Box011
+    4300010: Cylinder009
+    4300012: Torus004
+    4300014: Cylinder010
+    4300016: Cylinder011
+    4300018: Box004
+    4300020: Box005
+    4300022: Cylinder012
+    4300024: Cylinder013
+    4300026: Cylinder014
+    4300028: Torus005
+    4300030: Torus006
+    4300032: Box012
+    4300034: Cylinder015
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
