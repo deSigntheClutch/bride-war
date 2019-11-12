@@ -16,9 +16,12 @@ public class CharacterMove : MonoBehaviour {
 	private Transform footTrigger;
 	private Animator anim; //Animator Component
 	private bool jump; //if jump animation is playing now
-    
+    public bool isTouched;
+
 	void Awake(){
-		footTrigger = GameObject.Find("FootTrigger").transform;
+        isTouched = false;
+        
+        footTrigger = GameObject.Find("FootTrigger").transform;
 		//Get Player Rigidbody Component
 		rgb = gameObject.GetComponent<Rigidbody>();
 		rgb.sleepThreshold = 0.0f;
@@ -37,7 +40,7 @@ public class CharacterMove : MonoBehaviour {
 	}
 
 	void Update () {
-        Debug.Log(jump);
+        Debug.Log(isTouched);
 
         //Check for Input
         if (Input.GetAxis("Horizontal") != 0)
@@ -69,7 +72,7 @@ public class CharacterMove : MonoBehaviour {
 			anim.SetBool("Jump",true);
 			jump = true;
 		}
-	}
+    }
 
 	public void Land()
 	{
@@ -88,4 +91,5 @@ public class CharacterMove : MonoBehaviour {
 		facingRight = !facingRight;
 		transform.Rotate(Vector3.up, 180.0f, Space.World);
 	}
+
 }

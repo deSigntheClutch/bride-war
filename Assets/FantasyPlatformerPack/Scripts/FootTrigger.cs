@@ -4,10 +4,11 @@ using System.Collections;
 public class FootTrigger : MonoBehaviour {
 
 	private CharacterMove player;
-
+    bool isTouched = false;
 	void Start()
 	{
-		player = GameObject.FindGameObjectWithTag("Player").GetComponent<CharacterMove>();
+        isTouched = false;
+        player = GameObject.FindGameObjectWithTag("Player").GetComponent<CharacterMove>();
 	}
 
 	void OnTriggerEnter(Collider other)
@@ -27,5 +28,10 @@ public class FootTrigger : MonoBehaviour {
 		{
 			other.gameObject.GetComponent<BreakableObject>().Break();
 		}
-	}
+        Debug.Log(other.name);
+        if (other.tag == "Enemy")
+        {//检测玩家是否碰到了敌人
+            GameObject.Find("Player_Prefab").GetComponent<CharacterMove>().isTouched = true;
+        }
+    }
 }

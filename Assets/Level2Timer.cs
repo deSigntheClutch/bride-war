@@ -23,13 +23,22 @@ public class Level2Timer : MonoBehaviour
         pos_x = timerText.rectTransform.position.x;
         came = Camera.main;
         index = UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex;
-        Debug.Log(index);
+       // Debug.Log(index);
     }
 
     // Update is called once per frame
     void Update()
     {
-        Debug.Log(GameObject.Find("Player_Prefab").GetComponent<PlayerManager>().coins);
+ //Debug.Log(GameObject.Find("Player_Prefab").GetComponent<PlayerManager>().coins);
+        if (GameObject.Find("Player_Prefab").GetComponent<CharacterMove>().isTouched == true)
+        {
+            Debug.Log("das");
+            roundTime = -1;
+            //m_Renderer.material.color = Color.gray
+            //Time.timeScale = 0;
+
+            //GameObject.Find("Player_Prefab").GetComponent<CharacterMove>().isTouched = false;
+        }
         var lerpedColor = Color.Lerp(Color.grey, Color.blue, Time.time);
         var playerposition_x = GameObject.Find("Player_Prefab").transform.position.x;
         //came.backgroundColor = lerpedColor;
@@ -74,6 +83,7 @@ public class Level2Timer : MonoBehaviour
         EditorSceneManager.LoadScene(6);
         timerText.rectTransform.position = new Vector3(pos_x, pos_y, 0);
         //UnityEngine.SceneManagement.SceneManager.LoadScene(1);
+        GameObject.Find("Player_Prefab").GetComponent<CharacterMove>().isTouched = false;
         timer = 1.0f;
         roundTime = 40;                     
     }
